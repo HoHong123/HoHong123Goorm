@@ -1,5 +1,8 @@
 ## HoHong123Groom / Goorm
 ### 발전하며 노력하는 개발자<br/>
+
+<img src="https://github.com/HoGyeongC/portfolio/assets/114250166/1c3e3c7c-b9dc-4d15-9f07-795419c57d57" width="40%" height="40%">
+
 👨🏻‍💻 지치지 않는 개발자 **박기홍** 입니다.<br/>
 🎂 생년 : 1994년, 만 28세<br/>
 🇰🇷 서울시 노량진 거주<br/>
@@ -35,35 +38,10 @@ td, th {
 }
 </style>
 
-  | Language |
+  |          |   Languages   |       |
   |----------|:-------------:|------:|
-  | <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> |  left-aligned | $1600 |
-  | <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> |    centered   |   $12 |
-  | col 3 is | right-aligned |    $1 |
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black">
-
-#### I've used it before.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
-  <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-</div>
+  | <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=blue"> |  <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=csharp&logoColor=green">  | <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=green"> |
+  
 <br />
 <br />
 <br />
