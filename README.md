@@ -30,11 +30,11 @@
 ## Skills
 #### I use it often.
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+  <style>
+  td, th {
+    border: none!important;
+  }
+  </style>
 
   |          |   Languages   |       |
   |----------|:-------------:|------:|
