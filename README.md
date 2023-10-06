@@ -35,7 +35,7 @@ td, th {
 }
 </style>
 
-  | Tables   |      Are      |  Cool |
+  | Language |
   |----------|:-------------:|------:|
   | <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> |  left-aligned | $1600 |
   | <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> |    centered   |   $12 |
