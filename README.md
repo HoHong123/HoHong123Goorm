@@ -1,8 +1,6 @@
 ## HoHong123Groom / Goorm
 ### 발전하며 노력하는 개발자<br/>
 
-<img src="https://github.com/HoGyeongC/portfolio/assets/114250166/1c3e3c7c-b9dc-4d15-9f07-795419c57d57" width="40%" height="40%">
-
 👨🏻‍💻 지치지 않는 개발자 **박기홍** 입니다.<br/>
 🎂 생년 : 1994년, 만 28세<br/>
 🇰🇷 서울시 노량진 거주<br/>
